@@ -1,0 +1,6 @@
+For this assignment you need to create an IntelliJ project and then copy the 3 provided Java files to the src folder of your project.  (you will replace the existing Main.java with the one from this project).
+
+Then you will want to read the comments in the main.java file provided to you and fill in the appropriate code.  All of the methods that you will need to call can be found in
+the Player.java and the Enemy.java classes. You should not modify either the Enemy.java or the Player.java files to make it work.  
+
+When you submit the code you only need to submit the main.java file for this assignment.
